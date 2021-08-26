@@ -5,6 +5,7 @@ The media that makes up the bulk of my information consumption/entertainment out
 ### YouTube
 
 Current subscriptions (recently haven't been keeping up as much as in the past)
+
 - Captain Sinbad
 - What I've Learned
 - Nathaniel Drew + No Backup Plan
@@ -23,9 +24,11 @@ Current subscriptions (recently haven't been keeping up as much as in the past)
 ### Series
 
 Recent
+
 - How I Met Your Mother
 
 Past
+
 - Bojack Horseman
 - Master of None
 - Fleabag
@@ -52,9 +55,11 @@ Past
 ### Movies
 
 Recent
+
 - When Harry Met Sally
 
 Past
+
 - Serendipity
 - Good Morning Vietnam
 - Cousins
