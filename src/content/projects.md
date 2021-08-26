@@ -3,7 +3,7 @@
 A collection of projects that have helped me learn throughout
 my programming journey.
 
-![Spotify Social](static/spotifySocial.gif)
+![Spotify Social](static/images/spotifySocial.gif)
 ## Spotify Social
 Node Express React PostgreSQL
 
@@ -14,7 +14,7 @@ from the Spotify API.
 [Github](https://github.com/alecchendev/spotify-social)
 
 
-![Runner game](static/runnerGame.gif)
+![Runner game](static/images/runnerGame.gif)
 ## Runner Game
 Rust Wasm Javascript WebGL
 
@@ -24,7 +24,7 @@ as you can using a spiderman-esque grappling hook ability.
 [Github](https://github.com/alecchendev/runner-game)
 
 
-![3d engine](static/3dEngine.gif)
+![3d engine](static/images/3dEngine.gif)
 ## 3d Engine From Scratch
 C++ Cinder
 
@@ -32,7 +32,7 @@ Right-hand rule on steriods.
 
 [Article](https://medium.com/dev-genius/how-i-built-a-basic-3d-graphics-engine-from-scratch-a54df82031f3?source=friends_link&sk=8c0d8ceb7da3e19e73c0175d988befc5)
 
-![Social network](static/socialNetwork.png)
+![Social network](static/images/socialNetwork.png)
 ## Social Network Analysis
 Python Seaborn Networkx
 
