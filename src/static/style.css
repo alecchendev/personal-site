@@ -18,7 +18,7 @@ body {
 	justify-content: space-between;
 }
 
-.navbar {
+.navigation {
     display: flex;
 	flex-direction: column;
 	top: 50px;
@@ -28,6 +28,10 @@ body {
 
 .content {
     width: 600px;
+}
+
+.profile-img img {
+    width: 150px;
 }
 
 @media only screen and (max-width: 850px) {
@@ -73,7 +77,7 @@ h1 {
     color: gray;
 }
 
-.hobby-img {
+.hobby-img img {
     width: 32.8%;
 }
 

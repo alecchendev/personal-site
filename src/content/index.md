@@ -1,4 +1,5 @@
-![Profile photo of Alec](../images/profile.png)
+{.profile-img}
+![Profile photo of Alec](static/profile.png)
 
 Hey! I'm Alec.
 
