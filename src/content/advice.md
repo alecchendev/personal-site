@@ -8,6 +8,7 @@ The text below is more targeted towards my younger sisters and is more specific 
 
 ### Academics
 
+
 How to make the most of your education
 
 Learning > grades. Grades are a necessary evil, but generally focusing on the grade will cause you to expend unnecessary mental energy and distract you from the value of education. If you just try to learn, and you investigate things that are confusing or interesting and do your best to figure them out, you will be smarter and better equipped to learn other things—good grades will be a natural byproduct.
